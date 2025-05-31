@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7886d32cf29264b4784fb805b3c04dcf
+guid: ecba0aee994f22c4e87aa7d0e714f319
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,14 +43,14 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -108,91 +108,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: StanIdlee_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 15
-        height: 38
-      alignment: 9
-      pivot: {x: 0.5, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a17ebb508968684b94dffeb3887420e
-      internalID: -1716633516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StanIdlee_1
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 0
-        width: 15
-        height: 38
-      alignment: 9
-      pivot: {x: 0.5, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 724103bbec1489b4c836e555936f1919
-      internalID: 1402706592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StanIdlee_2
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 0
-        width: 15
-        height: 38
-      alignment: 9
-      pivot: {x: 0.5, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13cd679696b1126418599bef08557773
-      internalID: -1791082943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StanIdlee_3
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 0
-        width: 15
-        height: 38
-      alignment: 9
-      pivot: {x: 0.5, y: 0.1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e7b7c343a8900e4ca669826ee350de6
-      internalID: -279757445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -203,11 +119,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      StanIdlee_0: -1716633516
-      StanIdlee_1: 1402706592
-      StanIdlee_2: -1791082943
-      StanIdlee_3: -279757445
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
